@@ -1,0 +1,21 @@
+{
+    "name": "choicetechlab/notification",
+    "description": "Notification Engine",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bharat Vishe",
+            "email": "bharat@choicetechlab.com"
+        },
+        {
+            "name": "Hitesh Kalal",
+            "email": "hitesh@choicetechlab.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                "choicetechlab\\notification\\": "src/"
+        }
+    }
+}
