@@ -15,7 +15,13 @@
     "require": {},
     "autoload": {
             "psr-4": {
-                "choicetechlab\\notification\\": "src/"
+                "Choicetechlab\\Notification\\": "src/"
         }
-    }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Choicetechlab\\Notification\\": "src/"
+        }
+    },
+
 }
